@@ -1,0 +1,13 @@
+{
+    "fontsize":{
+        "default":100,
+        "headshot":160,
+        "kill":160
+    },
+    "textcolor":{
+        "default":[255, 255, 255, 255],
+        "headshot":[255, 255, 0, 255],
+        "kill":[255, 0, 0, 255]
+    },
+    "displaytime":1
+}
